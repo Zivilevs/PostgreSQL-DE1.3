@@ -1,6 +1,6 @@
 # Database set up in Postgres DB for Goodreads Dataset
 
-Project to create Postgres database, model and populate with goodreads dataset. Onc.e set up run some analytic queries.
+Project to create Postgres database, model and populate with goodreads dataset and once set up to run some analytic queries.
 
 Requirements: active `Postgres server` and `Postgres client` installed.</br>
 Dataset was downloaded from [here](https://www.kaggle.com/datasets/thedevastator/comprehensive-overview-of-52478-goodreads-best-b).
@@ -24,4 +24,4 @@ You can explore DB books from your favorite GUI Client like `pgAdmin`, `DBeaver`
  
   ## Data Model
  
- ![books]()
+ ![books](https://github.com/TuringCollegeSubmissions/zivval-DE1.3/blob/master/docs/goodread_model.png)
