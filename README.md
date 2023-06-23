@@ -8,7 +8,7 @@ Dataset was downloaded from [here](https://www.kaggle.com/datasets/thedevastator
 After cloning this repo follow these steps:</br>
 **Option 1** Step by step from CLI. In repo folder run:
 1. `./0_data-preparation-cleaning.ipynb`
-2. `./1_create_db_ingest_data.sh`
+2. `./1_create_db.sh`
 3. `./2_create_load_tables.sh`
 4. `./3_create_table_relations.sh`
 5. `./4_queries_in_booksDB.ipynb`
