@@ -1,6 +1,6 @@
 # Database set up in Postgres DB for Goodreads Dataset
 
-Project to create Postgres database, model and populate with goodreads dataset and once set up to run some analytic queries.
+Project to create Postgres database, model and normalize goodreads dataset, then load data to db and once set up to run some analytic queries.
 
 Requirements: active `Postgres server` and `Postgres client` installed.</br>
 Dataset was downloaded from [here](https://www.kaggle.com/datasets/thedevastator/comprehensive-overview-of-52478-goodreads-best-b).
